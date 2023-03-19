@@ -8,9 +8,7 @@ Features
 3. Animated logo that adds visual interest and captures users attention.
 4. Hover effects that enhance the user experience and make the website more engaging.
 
-Getting Started
 To run this website on your local machine, follow these steps:
-
 Clone the repository to your local machine using Git.
 Open the index.html file in your web browser.
 Enjoy!
