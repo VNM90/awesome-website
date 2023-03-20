@@ -302,6 +302,7 @@ body {
 
     .text--bold {
         margin-bottom: 10px;
+        font-size: 0.7rem;
     }
 
     .navigation__wrapper--web {
