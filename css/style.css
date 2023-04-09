@@ -7,7 +7,7 @@
 }
 
 body {
-    overflow: hidden;
+    overflow: auto;
     margin: 0;
     font-size: 32px;
 }
@@ -136,6 +136,7 @@ body {
     position: absolute;
     bottom: 0;
 }
+
 
 .rotate {
     animation: rotate 2s linear;
